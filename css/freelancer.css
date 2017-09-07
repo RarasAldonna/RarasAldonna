@@ -448,3 +448,20 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+
+.evan {
+  padding: 50px;
+  width: 300px;
+  height:300px;
+
+}
+
+.row{
+  padding-left:300px; 
+}
+
+.Social{
+  padding: 20px;
+  width: 250px;
+  height:250px;
+}
