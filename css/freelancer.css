@@ -450,18 +450,28 @@ footer {
   outline: none; }
 
 .evan {
-  padding: 50px;
-  width: 300px;
+  padding-left: 80px;
+  width: 310px;
   height:300px;
 
-}
-
-.row{
-  padding-left:300px; 
 }
 
 .Social{
   padding: 20px;
   width: 250px;
   height:250px;
+}
+
+.uc_logo{
+  padding: 20px;
+  width: 190px;
+  height: 250px;
+}
+
+.row2{
+  padding-left: 150px;
+}
+.currently{
+  padding;50;
+  padding-left: 80px;
 }
